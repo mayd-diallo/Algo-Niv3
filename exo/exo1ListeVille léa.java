@@ -1,3 +1,4 @@
+
 /* A l'aide de boucle, tableau, exception et fonction. Me faire un tableau contenant 5 noms de villes (Vous pouvez choisir vos propres villes), créer une méthode pour afficher les pays du tableau numéroté par ligne et autre une méthode pour choisir une villes selon 
 
 la position de sa cellule du tableau et puis affichera un message de bienvenue dans la langue de la ville choisi.:
