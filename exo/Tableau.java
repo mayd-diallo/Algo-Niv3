@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+public class Tableau {
+    
+}
+=======
 
 public class Tableau {
 
@@ -28,3 +33,4 @@ public class Tableau {
         AfficherTouteValeurTableau(tableau);
     }
 }
+>>>>>>> bb8f56a262a7d752b5547f94ad64ccf7c2c56140
