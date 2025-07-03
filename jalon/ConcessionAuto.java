@@ -1,5 +1,4 @@
 package jalon;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.time.LocalDateTime;
@@ -321,5 +320,3 @@ public class ConcessionAuto {
                          " | Prix total : " + voiture[6] + " €");
     }
 }
-
-
